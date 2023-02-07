@@ -2,11 +2,12 @@
 - 🔭 Estudando Desenvolvimento Web Full Stack na Labenu 
 - 💻 HTML | CSS | React | Jest | Node JS | TypeScript | MySQL | AWS | Firebase 
 - 😄 Pronome: ele/dele
- <div align="center">
-    <a href="https://github.com/Afmjunior](https://www.codewars.com/users/Afmjuniors">
+ 
+    <a href="https://www.codewars.com/users/Afmjuniors">
       <img  src="https://www.codewars.com/users/Afmjuniors/badges/small"/> 
-  </div>
-  </br>
+    <a href="https://www.hackerrank.com/afmjuniors">
+      <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+   </br>
 
 <div align="center">
   <a href="https://github.com/Afmjunior">
