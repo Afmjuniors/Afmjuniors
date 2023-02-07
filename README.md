@@ -1,51 +1,47 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+## Olá, eu sou Alexandre Machado
+- 🔭 Estudando Desenvolvimento Web Full Stack na Labenu 
+- 💻 HTML | CSS | React | Jest | Node JS | TypeScript | MySQL | AWS | Firebase 
+- 😄 Pronome: ele/dele
+ <div align="center">
+    <a href="https://github.com/Afmjunior](https://www.codewars.com/users/Afmjuniors">
+      <img  src="https://www.codewars.com/users/Afmjuniors/badges/small"/> 
+  </div>
+  </br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Alexandre+Machado;I`m+from+Belo+Horizonte-MG+Brazil)](https://git.io/typing-svg)
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Afmjuniors&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Alexandre Machado´s GitHub Stats"
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afmjuniors&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+<div align="center">
+  <a href="https://github.com/Afmjunior">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Afmjuniors&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afmjuniors&layout=compact&langs_count=7&theme=dracula"/> 
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Afmjuniors&theme=dracula&hide_border=false"
 </div>
+    
+<div align="center"><br>
+  <img align="center" alt="Alexandre-ts" height="30" width="150" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img align="center" alt="Alexandre-HTML" height="30" width="100" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="Alexandre-CSS" height="30" width="100" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+   <img align="center" alt="Alexandre-React" height="30" width="100" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img align="center" alt="Alexandre-nextjs" height="30" width="100" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+    <img align="center" alt="Alexandre-Node" height="30" width="100" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+    <img align="center" alt="Alexandre-Express" height="30" width="100" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+    <img align="center" alt="Alexandre-sqlite" height="30" width="100" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+  
+</div>
+  
+  ##
  
-
-
-![Contribution](https://activity-graph.herokuapp.com/graph?username=Afmjuniors&theme=gotham&hide_border=true&area=true)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Afmjuniors&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
-<div align="center">  
-<a href="https://instagram.com/afmjuniors" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.hackerrank.com/afmjuniors" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/alexandre-machado-55112a248/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
- <img align="right" alt="Luffy" height="150" style="border-radius:50px;" src="https://64.media.tumblr.com/eb94e1ca43e55f65081c36207be76d46/tumblr_miji71hkY91rby56yo1_500.gifv">
-</div> 
-
-### Main skills:
-<!--
-<code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
--->
-<code><img width="4%" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/CS.svg"></code>
-<code><img width="4%" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/JavaScript.svg"></code>
-<code><img width="4%" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/HTML.svg"></code>
-<code><img width="4%" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/CSS.svg"></code>
+<div align="center"> 
+  <a href="https://instagram.com/afmjuniors" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:afmjuniors@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/afmjuniors" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ </div>
   
-##
-  ### Tools:
-  <code><img width="4%" src="https://cdn-icons-png.flaticon.com/512/733/733553.png"></code>
-  <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
-  <code><img width="4%" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Unity-Dark.svg"></code>
-  <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
-  
-  
-##
-### Studying in this moment:
-<code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></code>
-<code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></code>
-<code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code>
-<code><img width="4%" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Java-Dark.svg"></code>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
- 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+[![](https://visitcount.itsvg.in/api?id=Afmjuniors&icon=2&color=10)](https://visitcount.itsvg.in)
+    
+<div align="center">
+  
+  ![Snake animation](https://github.com/endioliveira/endioliveira/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
