@@ -1,5 +1,5 @@
 ## Olá, eu sou Alexandre Machado
-- 🔭 Estudando Desenvolvimento Web Full Stack na Labenu 
+- 🔭 Desenvolvedor Web Full Stack 
 - 💻 HTML | CSS | React | Jest | Node JS | TypeScript | MySQL | AWS | Firebase 
 - 😄 Pronome: ele/dele
  <div align='center'>
@@ -19,6 +19,7 @@
     
 <div align="center"><br>
   <img align="center" alt="Alexandre-ts" height="30" width="150" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+     <img align="center" alt="Alexandre-Python" height="30" width="100" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
   <img align="center" alt="Alexandre-HTML" height="30" width="100" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Alexandre-CSS" height="30" width="100" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
    <img align="center" alt="Alexandre-React" height="30" width="100" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
@@ -26,6 +27,8 @@
     <img align="center" alt="Alexandre-Node" height="30" width="100" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
     <img align="center" alt="Alexandre-Express" height="30" width="100" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
     <img align="center" alt="Alexandre-sqlite" height="30" width="100" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+
+    
   
 </div>
   
